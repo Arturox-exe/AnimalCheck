@@ -5,6 +5,7 @@ Final project of the Distributed Systems for IoT subject from Internet of Things
 
 - Raspberry Pi 3 model B (Gateway)
 - Smart watches/band with Bluetooth, one is a wrist band from Metawear (Beacons)
+- Mobile phone or Mobile emulator.
  
 ## The project includes the following functionalities:
 
